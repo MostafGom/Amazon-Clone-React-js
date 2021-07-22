@@ -1,5 +1,5 @@
 # Deployed site on firebase
-# shop-clone-3a028.web.app
+==> shop-clone-3a028.web.app
 
 # Getting Started with Create React App
 
